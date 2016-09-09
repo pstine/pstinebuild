@@ -1,5 +1,7 @@
-6
+7
 |||
-I have updated the build, no need to run fresh start as there are not alot of changes.
-Please run the P-Stine Wizard to update the build.
-Thanks!
+Thank-you for downloading my build!
+
+I will notify you when there are available updates. Depending on the amount of changes in the updates you may have to fresh start before updating. 
+
+If not simply run the P-Stine Wizard v1.0 to download the update.
