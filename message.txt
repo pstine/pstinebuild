@@ -1,3 +1,6 @@
-3 
+4 
 |||
-New version of the build, please run the wizard again to update.
+I have updated the build, no need to run fresh start as there are not alot of changes.
+Please run the P-Stine Wizard to update the build.
+
+Thanks!
