@@ -1,7 +1,7 @@
-7
+8
 |||
-Thank-you for downloading my build!
+Thank-you for downloading the P-stine build!
 
 I will notify you when there are available updates. Depending on the amount of changes in the updates you may have to fresh start before updating. 
 
-If not simply run the P-Stine Wizard v1.0 to download the update.
+If not simply run the P-Stine Wizard v1.0 to download the update. If you have any questions email us at p_stine123@yahoo.com
