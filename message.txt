@@ -1,7 +1,23 @@
-8
+9
 |||
 Thank-you for downloading the P-stine build!
 
+* First Make sure you are connected to the internet..
+* Installed 3 programs..
+* 1. Kodi..
+* 2. Mobdro
+* 3. Terrarium Tv
+
+Kodi: is for everything, it has a lot of add ons that will stream from websites such as: Sports, Movies, Tv shows, Pay Per View & Etc..
+
+Mobdro: is also very good for Live Tv chances and sports channels..
+
+Terrarium Tv: is a really great program that i better than SHOWBOX.. It will scrape a lot of websites for a movie or tv show. other just scrape one or a couple sources..
+
+
+For More information or if you have any questions please write me an email: P_stine123@yahoo.com
+
+
 I will notify you when there are available updates. Depending on the amount of changes in the updates you may have to fresh start before updating. 
 
-If not simply run the P-Stine Wizard v1.0 to download the update. If you have any questions email us at p_stine123@yahoo.com
+If not simply run the P-Stine Wizard v1.0 to download the update.
