@@ -1,4 +1,4 @@
-10
+11
 |||
 Thank-you for downloading the P-stine build!
 
@@ -10,7 +10,3 @@ Thank-you for downloading the P-stine build!
 
 For More information or if you have any questions please write me an email: P_stine123@yahoo.com
 
-
-I will notify you when there are available updates. Depending on the amount of changes in the updates you may have to fresh start before updating. 
-
-If not simply run the P-Stine Wizard v1.0 to download the update.
